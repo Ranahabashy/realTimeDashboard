@@ -78,8 +78,6 @@ function App() {
                   }>
                     <Route path="new" element={<TasksCreatePage />} />
                     <Route path="edit" element={<TasksEditPage />} />
-
-
                   </Route>
 
                 </Route>
@@ -95,5 +93,4 @@ function App() {
     </BrowserRouter >
   );
 }
-
 export default App;
