@@ -12,6 +12,7 @@ It allows users to track, organize, and update tasks, projects, or other dynamic
 The system is structured around a responsive Kanban board experience,  
 with seamless integration to GraphQL APIs for fast and structured data management.
 
+Refine is an open-source React-meta framework specifically designed to meet the requirements of enterprise companies dev teams. It comes with a core package that simplifies app requirements like data handling, authentication, access control, etc.
 ---
 
 ## 🛠️ Tech Stack
